@@ -7,5 +7,8 @@ public class Main{
          System.out.println("Output from java programme");
           System.out.println(new Date());
           System.out.println("Hello New Changes to be pushed in Git");
+          Student student=new Student();
+          student.student();
+          
     }
 }
